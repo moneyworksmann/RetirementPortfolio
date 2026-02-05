@@ -20,3 +20,6 @@ This project is for people who:
 - Are new to investing or retirement planning
 - Want a quick sanity-check of their account allocations
 - Prefer clear, actionable advice rather than jargon
+
+##How to use
+streamlit run code.py
