@@ -21,5 +21,5 @@ This project is for people who:
 - Want a quick sanity-check of their account allocations
 - Prefer clear, actionable advice rather than jargon
 
-##How to use
+##To run your numbers, run the following line of code:
 streamlit run code.py
